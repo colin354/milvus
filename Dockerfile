@@ -1,1 +1,1 @@
-From milvusdb/milvus:v2.2.16
+FROM milvusdb/milvus:v2.2.16
